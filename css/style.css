@@ -59,7 +59,14 @@ a:focus, a:hover {
 	outline: none;
 }
 /*-- //Reset-Code --*/
+#fb {
+	all: initial;
+	color: white;
+}
 
+#fb:hover{
+	cursor: pointer;
+}
 /* nav */
 
 nav.w3-navbar {
